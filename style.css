@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+box-sizing: border-box;
+}
+
+.topdes{
+    padding: 2rem 7%;
+    background: rgb(148, 11, 11);
+    height: 90px;
+    margin-top: 10px;
+    text-align: center;
+
+    /* padding: 2rem 7%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--mainclr);
+    z-index: 1000; */
+}
+
+.list ul li{    
+display: inline-block;
+color: blueviolet;
+background: red;
+border-radius: 10px;
+padding-right: 40px;
+text-align: center;
+}
+ul{
+    margin-left: 40%;
+}
